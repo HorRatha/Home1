@@ -27,6 +27,10 @@ public class Application1 {
         }
         return false;
     }
+    private static boolean SearchById(){
+        Scanner scanner = new Scanner(System.in);
+
+    }
     private static void home(){
         System.out.println("""
                 1. Add Student Name
